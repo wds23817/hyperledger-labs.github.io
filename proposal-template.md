@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Proposal Document
+title: Renting Protocol
 parent: Labs
 ---
 # Lab Name
