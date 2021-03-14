@@ -7,7 +7,7 @@ parent: Labs
 _Hyperledger Renting_
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+_This application will be used for Landlord/Head-tenant to confirm the bills(rent, electricity, bond, water, internet, gas, etc) have been paid by the tenant_
 
 # Scope of Lab
 _Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
