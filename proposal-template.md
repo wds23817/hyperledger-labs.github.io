@@ -4,7 +4,7 @@ title: Renting Protocol
 parent: Labs
 ---
 # Lab Name
-_Enter the name of your lab here._
+_Hyperledger Renting_
 
 # Short Description
 _Provide a short description of your lab. This will be used for the Github repository's description._
